@@ -1,0 +1,2 @@
+# Udemy_python
+UdemyでPythonの勉強したときのノート
